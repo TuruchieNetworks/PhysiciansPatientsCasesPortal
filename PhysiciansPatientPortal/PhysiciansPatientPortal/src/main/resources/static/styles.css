@@ -1,0 +1,120 @@
+@charset "ISO-8859-1";
+/* main.css */
+.mellow-health-body {
+    background: khaki;
+    font-family: cursive;
+}
+.mellow-health-header {
+    color: azure;
+    border-bottom: 2px solid aliceblue;
+    font-weight: bold;
+    font-size: 32px;
+    background: chocolate;
+    padding: 10px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.welcome-link {
+    width: 100%;
+    display: block;
+    padding: 0px;
+    color: brown;
+    text-decoration: none;
+}
+
+.welcome-message {
+    color: azure;
+    border-bottom: 2px solid aliceblue;
+    background: rgba(2.11, 24.5, 121, 0.9);
+    border-radius: 5%;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 10px;
+    font-family: cursive;
+    text-align: center;
+}
+
+/* Form Styles*/
+.patient-search-form {
+    margin: 10px;
+    text-align: center;
+}
+
+/* Label Styles */
+.search-label {
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+/* Styles for the search input */
+.search-input {
+    width: 60%;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+/* Styles for the matched patient full name */
+.matched-patient-full-name {
+    font-weight: bold;
+    color: green;
+    margin-top: 10px;
+}
+.mellow-health-header {
+    color: azure;
+    border-bottom: 2px solid aliceblue;
+    font-weight: bold;
+    font-size: 32px;
+    background: chocolate;
+    padding: 10px;
+    font-family: cursive;
+    text-align: center;
+}
+
+/* Welcome Message Link */
+.welcome-link {
+    width: 100%;
+    display: block;
+    padding: 0;
+    color: brown;
+    text-decoration: none;
+}
+
+/* Welcome Message */
+.welcome-message {
+    color: azure;
+    border-bottom: 2px solid aliceblue;
+    background: rgba(2.11, 24.5, 121, 0.9);
+    border-radius: 5%;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 10px;
+    font-family: cursive;
+    text-align: center;
+}
+
+/* Form Styles */
+.patient-search-form {
+    margin: 10px;
+    text-align: center;
+}
+
+/* Label Styles */
+.form-label {
+    padding: 10px 0;
+}
+
+/* Input Styles */
+.form-input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+/* Matched Patient Full Name Styles */
+.matched-patient-full-name {
+    font-weight: bold;
+    color: green;
+    margin-top: 10px;
+}
+
